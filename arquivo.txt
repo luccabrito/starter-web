@@ -1,1 +1,4 @@
-estou apenas enchendo linguiça. pois neste curso eu devo adicionar conteúdo a um projeto que clonei do github. e acredito que este pouco aqui já seja o suficiente!
+estou apenas enchendo linguiça. pois neste curso eu devo adicionar conteúdo a um projeto que clonei do github. e acredito que este pouco aqui já seja o suficiente! 
+
+eu preciso adicionar algumas linhas para ter uma diferença entre os dois arquivos.
+poderia estar copiando um lorum ipsum, mas não quero.
