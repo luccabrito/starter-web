@@ -1,0 +1,1 @@
+adicionando algum mínimo conteúdo. desta vez vou adicionar este arquivo ao git, porém, na hora do commit, não vou escrever o "-m" para que eu tenha que fazer essa função através do VIM.
